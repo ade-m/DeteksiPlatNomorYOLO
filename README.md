@@ -26,22 +26,23 @@ dataset/
 │   └── val/
 
 
-##📊 Highlight Performa
-
+## 📊 Highlight Performa
+```plaintext  
 Presisi: 88,3%
 Recall: 80%
 mAP@0.5: 88,7%
 mAP@0.5:0.95: 49,2%
 🌐 Media Sosial
 
-##Ikuti perjalanan saya di media sosial untuk proyek-proyek seru lainnya:
-
+## Ikuti perjalanan saya di media sosial untuk proyek-proyek seru lainnya:
+```plaintext  
 TikTok: @ademaulana_4
 Instagram: @ademaulana_
 Terima kasih telah berkunjung! Jangan ragu untuk memberi saran atau berkontribusi. 🚀
 
 
 ### Cara Menggunakan:
+```plaintext  
 1. Salin isi di atas.
 2. Simpan ke file `README.md` di repositori Anda.
 3. Tautan media sosial akan otomatis dapat diklik jika diunggah ke GitHub.
