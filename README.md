@@ -35,11 +35,10 @@ mAP@0.5:0.95: 49,2%
 🌐 Media Sosial
 ```
 ## Ikuti perjalanan saya di media sosial untuk proyek-proyek seru lainnya:
-```plaintext  
+
 [Ikuti saya di TikTok](https://www.tiktok.com/@ademaulana_4)
 [Ikuti saya di Instagram](https://www.instagram.com/ademaulana_)
 Terima kasih telah berkunjung! Jangan ragu untuk memberi saran atau berkontribusi. 🚀
-```
 
 ### Cara Menggunakan:
 ```plaintext  
