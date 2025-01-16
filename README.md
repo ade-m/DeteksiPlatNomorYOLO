@@ -23,8 +23,10 @@ dataset/
 │   └── val/  
 ├── labels/  
 │   ├── train/  
-│   └── val/  
-📊 Highlight Performa
+│   └── val/
+
+
+##📊 Highlight Performa
 
 Presisi: 88,3%
 Recall: 80%
@@ -32,7 +34,7 @@ mAP@0.5: 88,7%
 mAP@0.5:0.95: 49,2%
 🌐 Media Sosial
 
-Ikuti perjalanan saya di media sosial untuk proyek-proyek seru lainnya:
+##Ikuti perjalanan saya di media sosial untuk proyek-proyek seru lainnya:
 
 TikTok: @ademaulana_4
 Instagram: @ademaulana_
